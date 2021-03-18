@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.a594065c.chunk.css",
-    "main.js": "/static/js/main.2bfb772f.chunk.js",
-    "main.js.map": "/static/js/main.2bfb772f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f534d248.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f534d248.js.map",
-    "static/css/2.c1e28d34.chunk.css": "/static/css/2.c1e28d34.chunk.css",
-    "static/js/2.7fa35a32.chunk.js": "/static/js/2.7fa35a32.chunk.js",
-    "static/js/2.7fa35a32.chunk.js.map": "/static/js/2.7fa35a32.chunk.js.map",
-    "static/js/3.c3c9affb.chunk.js": "/static/js/3.c3c9affb.chunk.js",
-    "static/js/3.c3c9affb.chunk.js.map": "/static/js/3.c3c9affb.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.c1e28d34.chunk.css.map": "/static/css/2.c1e28d34.chunk.css.map",
-    "static/css/main.a594065c.chunk.css.map": "/static/css/main.a594065c.chunk.css.map",
-    "static/js/2.7fa35a32.chunk.js.LICENSE.txt": "/static/js/2.7fa35a32.chunk.js.LICENSE.txt",
-    "static/media/HeroSection.css": "/static/media/img-home.4bae2203.jpg",
-    "static/media/Precautions.css": "/static/media/img-last-precaution.9df67d78.jpg"
+    "main.css": "/cat-cafe/static/css/main.9ccc3e89.chunk.css",
+    "main.js": "/cat-cafe/static/js/main.2bfb772f.chunk.js",
+    "main.js.map": "/cat-cafe/static/js/main.2bfb772f.chunk.js.map",
+    "runtime-main.js": "/cat-cafe/static/js/runtime-main.19e8b0f4.js",
+    "runtime-main.js.map": "/cat-cafe/static/js/runtime-main.19e8b0f4.js.map",
+    "static/css/2.c1e28d34.chunk.css": "/cat-cafe/static/css/2.c1e28d34.chunk.css",
+    "static/js/2.7fa35a32.chunk.js": "/cat-cafe/static/js/2.7fa35a32.chunk.js",
+    "static/js/2.7fa35a32.chunk.js.map": "/cat-cafe/static/js/2.7fa35a32.chunk.js.map",
+    "static/js/3.c3c9affb.chunk.js": "/cat-cafe/static/js/3.c3c9affb.chunk.js",
+    "static/js/3.c3c9affb.chunk.js.map": "/cat-cafe/static/js/3.c3c9affb.chunk.js.map",
+    "index.html": "/cat-cafe/index.html",
+    "static/css/2.c1e28d34.chunk.css.map": "/cat-cafe/static/css/2.c1e28d34.chunk.css.map",
+    "static/css/main.9ccc3e89.chunk.css.map": "/cat-cafe/static/css/main.9ccc3e89.chunk.css.map",
+    "static/js/2.7fa35a32.chunk.js.LICENSE.txt": "/cat-cafe/static/js/2.7fa35a32.chunk.js.LICENSE.txt",
+    "static/media/HeroSection.css": "/cat-cafe/static/media/img-home.4bae2203.jpg",
+    "static/media/Precautions.css": "/cat-cafe/static/media/img-last-precaution.9df67d78.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f534d248.js",
+    "static/js/runtime-main.19e8b0f4.js",
     "static/css/2.c1e28d34.chunk.css",
     "static/js/2.7fa35a32.chunk.js",
-    "static/css/main.a594065c.chunk.css",
+    "static/css/main.9ccc3e89.chunk.css",
     "static/js/main.2bfb772f.chunk.js"
   ]
 }
